@@ -1,0 +1,129 @@
+.city {
+  width: 60%;
+  height: 100%;
+  float: left;
+  background: url("../images/city.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+  background-position-x: -30px;
+}
+
+.title {
+  float: right;
+  font-family: "Oxygen", sans-serif;
+  padding: 0px 20px 0 0;
+}
+
+.title h2 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.title h3 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #eee;
+  margin-top: -20px;
+  text-align: right;
+}
+
+.mb-icon {
+  position: absolute;
+  top: 34%;
+  left: 36%;
+  z-index: 1;
+}
+.mb-icon p {
+  color: white;
+  font-size: 25px;
+}
+.date-time {
+  position: absolute;
+  bottom: 0;
+  color: #fff;
+  width: 90%;
+  padding: 0 30px 10px 30px;
+  font-family: "Oxygen", sans-serif;
+}
+
+.dmy {
+  float: left;
+  text-align: left;
+  position: absolute;
+}
+
+div#txt {
+  font-size: 35px;
+  font-weight: 100;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+
+.current-time {
+  font-size: 35px;
+  font-weight: 100;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+
+.current-date {
+  font-size: 18px;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.temperature {
+  width: 30%;
+  float: right;
+  position: relative;
+  margin-bottom: -15px;
+}
+
+.temperature p {
+  font-family: "Raleway", sans-serif;
+  font-size: 60px;
+  font-weight: 100;
+  margin: 20px 40px 20px 0;
+}
+
+.temperature p span {
+  font-size: 50px;
+  font-weight: 200;
+}
+
+p,
+video {
+  margin: 0;
+  padding: 0px;
+  border: 0;
+}
+
+.loader {
+  width: 50px;
+  height: 50px;
+  border: 5px solid black;
+  border-bottom-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 45%;
+  right: 43%;
+  margin-right: 4rem;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

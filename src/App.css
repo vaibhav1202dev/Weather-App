@@ -1,0 +1,30 @@
+.container {
+  width: 65%;
+  height: 85vh;
+  margin: 50px auto;
+  background-color: rgba(0, 0, 0, 0.73);
+}
+
+body {
+  background: url("./images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 966px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 667px) {
+  .container {
+    width: 95%;
+    margin-top: 30px;
+  }
+}

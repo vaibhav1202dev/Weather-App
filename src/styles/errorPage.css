@@ -1,0 +1,18 @@
+.error-img {
+  margin-left: 0rem;
+}
+
+.Error-page {
+  background-color: grey;
+  padding-bottom: 6.5rem;
+  filter: opacity(70%);
+  overflow: hidden;
+}
+
+.btn {
+  padding: "5px";
+  cursor: "pointer";
+  font-size: 25px;
+  border-radius: 10px;
+  padding: 5px;
+}
