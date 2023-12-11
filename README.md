@@ -1,7 +1,8 @@
-<<<<<<< HEAD
- 
+<div align='center'>
+<img src='https://github.com/vaibhav1202dev/Weather-Track/assets/142654068/6ff56891-d78e-4ba5-915e-b2ea935401be'  height='80px' width='80px'/>
+</div>
                 
-Wheather App
+<div align='center'>Weather-Track</div>
     
  
 =======
