@@ -2,7 +2,7 @@
 <img src='https://github.com/vaibhav1202dev/Weather-Track/assets/142654068/6ff56891-d78e-4ba5-915e-b2ea935401be'  height='80px' width='80px'/>
 </div>
                 
-<div align='center'>Weather-Track</div>
+<div align='center'><h1>Weather-Track</h1></div>
 
 <h2>About the project</h2>
 
@@ -13,8 +13,8 @@
 <h3>Build with:</h3>
 
 » React JS <br>
-»  Scss 
-
+»  Scss <br>
+»  Openweather API
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <h2 align='center'>Home Page 🏡</h2>
