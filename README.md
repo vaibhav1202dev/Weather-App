@@ -20,13 +20,19 @@
 <h2 align='center'>Home Page 🏡</h2>
 
 <div align='center'>
-<img src='https://github.com/vaibhav1202dev/Weather-Track/assets/142654068/4a490326-a771-4692-a2ad-48dc530dc009.png'/>
+<img src='https://github.com/vaibhav1202dev/Weather-Track/assets/142654068/013a71d0-52a7-4141-bf48-b5519c4bb853'/>
 </div>
 
 <h2 align='center'>Loading Page ⌛</h2>
 
 <div align='center'>
 <img src='https://github.com/vaibhav1202dev/Weather-Track/assets/142654068/5a8afb4f-7881-4322-8656-c3b9fb58f184.png'/>
+</div>
+
+<h2 align='center'>Error Page ⚠️</h2>
+
+<div align='center'>
+<img src='https://github.com/vaibhav1202dev/Weather-Track/assets/142654068/18855bac-4576-48b0-8357-c9eeded8abaf.png'/>
 </div>
 
 ## <h2> Installation and Setup Instructions 🛠️</h2>
