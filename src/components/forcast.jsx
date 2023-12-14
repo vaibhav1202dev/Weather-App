@@ -1,7 +1,7 @@
 import "../styles/forcast.css";
 import React, { useEffect, useState, useCallback } from "react";
 import { getWeatherByQuery } from "../utils";
-//forcast
+ //forcast
 export const Forcast = (props) => {
   const [query, setQuery] = useState("");
   const [error, setError] = useState("");
