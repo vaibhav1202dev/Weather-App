@@ -8,7 +8,7 @@ const Error = () => {
         <div className="error-img">
           <img src={Errorimg} alt="Error-img" />
         </div>
-        <div>
+         <div>
           <button className="btn">
             {/* Return to Home Page */}
             <Link
